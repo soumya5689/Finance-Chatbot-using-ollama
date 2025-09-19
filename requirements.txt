@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+PyPDF2
+ollama
+langchain
+langchain-ollama
+faiss-cpu
+python-dotenv
+pandas
+openpyxl
